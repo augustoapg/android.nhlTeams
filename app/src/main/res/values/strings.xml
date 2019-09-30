@@ -3,7 +3,7 @@
     <string name="btnGetData">View NHL Data</string>
     <string name="httphost">https://statsapi.web.nhl.com/api/v1/teams</string>
     <string name="txtTitle">NHL TEAMS</string>
-    <string name="title_activity_team_details">TeamDetails</string>
+    <string name="title_activity_team_details">Team Details</string>
     <string name="lblLocation">Location</string>
     <string name="lblVenue">Venue</string>
     <string name="lblFirstYear">First Year</string>
