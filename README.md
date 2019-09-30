@@ -1,2 +1,4 @@
-# android.nhlTeams
-Simple app that gets the API https://statsapi.web.nhl.com/api/v1/teams to get teams from NHL and display them into a list view
+# NHL Teams
+This app gets information from an API to display a list of all the teams in the NHL.
+The list contains basic information, but when clicking on a team, a new Activity page opens with
+additional information.
