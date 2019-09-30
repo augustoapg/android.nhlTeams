@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="lblDetails">22sp</dimen>
+    <dimen name="txtDetails">16sp</dimen>
+    <dimen name="lblDetailsWidth">120sp</dimen>
+</resources>
