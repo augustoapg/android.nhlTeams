@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NHL Info</string>
+    <string name="app_name">NHL Teams</string>
     <string name="btnGetData">View NHL Data</string>
     <string name="httphost">https://statsapi.web.nhl.com/api/v1/teams</string>
     <string name="txtTitle">NHL TEAMS</string>
